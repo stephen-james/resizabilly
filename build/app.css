@@ -1,0 +1,44 @@
+html, body {
+  height: 100%;
+  width: 100%;
+  margin: 0;
+  padding: 0; }
+
+.resizable {
+  width: 200px;
+  height: 200px;
+  background-color: blue; }
+
+.rzb-resize-handle {
+  width: 20px;
+  height: 20px;
+  background-color: yellow;
+  position: absolute; }
+
+.rzb-hidden {
+  display: none; }
+
+.handle-top-left {
+  top: 0;
+  left: 0; }
+
+.handle-bottom-left {
+  bottom: 0;
+  left: 0; }
+
+.handle-top-right {
+  top: 0;
+  right: 0; }
+
+.handle-bottom-right {
+  bottom: 0;
+  right: 0; }
+
+body {
+  -moz-osx-font-smoothing: grayscale;
+  -webkit-font-smoothing: antialiased;
+  color: #555;
+  font-family: sans-serif; }
+
+
+/*# sourceMappingURL=data:application/json;base64,eyJ2ZXJzaW9uIjozLCJzb3VyY2VzIjpbIl9yZXNldHMuc2NzcyIsIl9yZXNpemFibGUuc2NzcyIsIl90eXBvZ3JhcGh5LnNjc3MiXSwibmFtZXMiOltdLCJtYXBwaW5ncyI6IkFBQUEsQUFBTTtFQUNGLEFBQVE7RUFDUixBQUFPO0VBQ1AsQUFBUTtFQUNSLEFBQVM7O0FDSmI7RUFDRSxBQUFPO0VBQ1AsQUFBUTtFQUNSLEFBQWtCOztBQUdwQjtFQUNFLEFBQU87RUFDUCxBQUFRO0VBQ1IsQUFBa0I7RUFDbEIsQUFBVTs7QUFHWjtFQUNFLEFBQVM7O0FBR1g7RUFDRSxBQUFLO0VBQ0wsQUFBTTs7QUFHUjtFQUNFLEFBQVE7RUFDUixBQUFNOztBQUdSO0VBQ0UsQUFBSztFQUNMLEFBQU87O0FBR1Q7RUFDRSxBQUFRO0VBQ1IsQUFBTzs7QUNsQ1Q7RUFDRSxBQUF5QjtFQUN6QixBQUF3QjtFQUN4QixBQUFPO0VBQ1AsQUFBYSIsImZpbGUiOiJhcHAuY3NzIiwic291cmNlc0NvbnRlbnQiOlsiaHRtbCwgYm9keSB7XG4gICAgaGVpZ2h0OiAxMDAlO1xuICAgIHdpZHRoOiAxMDAlO1xuICAgIG1hcmdpbjogMDtcbiAgICBwYWRkaW5nOiAwO1xufVxuIiwiLnJlc2l6YWJsZSB7XG4gIHdpZHRoOiAyMDBweDtcbiAgaGVpZ2h0OiAyMDBweDtcbiAgYmFja2dyb3VuZC1jb2xvcjogYmx1ZTtcbn1cblxuLnJ6Yi1yZXNpemUtaGFuZGxlIHtcbiAgd2lkdGg6IDIwcHg7XG4gIGhlaWdodDogMjBweDtcbiAgYmFja2dyb3VuZC1jb2xvcjogeWVsbG93O1xuICBwb3NpdGlvbjogYWJzb2x1dGU7XG59XG5cbi5yemItaGlkZGVuIHtcbiAgZGlzcGxheTogbm9uZTtcbn1cblxuLmhhbmRsZS10b3AtbGVmdCB7XG4gIHRvcDogMDtcbiAgbGVmdDogMDtcbn1cblxuLmhhbmRsZS1ib3R0b20tbGVmdCB7XG4gIGJvdHRvbTogMDtcbiAgbGVmdDogMDtcbn1cblxuLmhhbmRsZS10b3AtcmlnaHQge1xuICB0b3A6IDA7XG4gIHJpZ2h0OiAwO1xufVxuXG4uaGFuZGxlLWJvdHRvbS1yaWdodCB7XG4gIGJvdHRvbTogMDtcbiAgcmlnaHQ6IDA7XG59XG4iLCJib2R5IHtcbiAgLW1vei1vc3gtZm9udC1zbW9vdGhpbmc6IGdyYXlzY2FsZTtcbiAgLXdlYmtpdC1mb250LXNtb290aGluZzogYW50aWFsaWFzZWQ7XG4gIGNvbG9yOiAjNTU1O1xuICBmb250LWZhbWlseTogc2Fucy1zZXJpZjtcbn1cbiJdLCJzb3VyY2VSb290IjoiL3NvdXJjZS8ifQ== */

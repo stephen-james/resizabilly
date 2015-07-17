@@ -1,0 +1,36 @@
+.resizable {
+  width: 200px;
+  height: 200px;
+  background-color: blue;
+}
+
+.rzb-resize-handle {
+  width: 20px;
+  height: 20px;
+  background-color: yellow;
+  position: absolute;
+}
+
+.rzb-hidden {
+  display: none;
+}
+
+.handle-top-left {
+  top: 0;
+  left: 0;
+}
+
+.handle-bottom-left {
+  bottom: 0;
+  left: 0;
+}
+
+.handle-top-right {
+  top: 0;
+  right: 0;
+}
+
+.handle-bottom-right {
+  bottom: 0;
+  right: 0;
+}
